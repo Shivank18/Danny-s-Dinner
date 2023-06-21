@@ -20,3 +20,10 @@ Danny has shared with you 3 key datasets for this case study:
 sales
 menu
 members
+
+Learnings;
+
+Common Table Expressions
+Group By Aggregates
+Window Functions for ranking
+Table Joins
