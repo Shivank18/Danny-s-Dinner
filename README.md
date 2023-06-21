@@ -21,9 +21,7 @@ sales
 menu
 members
 
-Learnings;
+Learnings:
 
-Common Table Expressions
-Group By Aggregates
-Window Functions for ranking
-Table Joins
+SQL syntaxes. I learned about the CTEs, window functions,joins,subqueries and different ways to analytically check the results we have queried.
+
