@@ -23,5 +23,13 @@ members
 
 Learnings:
 
-SQL syntaxes. I learned about the CTEs, window functions,joins,subqueries and different ways to analytically check the results we have queried.
+SQL syntaxes. I learned about the CTEs, window functions,joins,Views,Temporary tables and different ways to analytically check the results we have queried.
+
+Insights Generated
+Customer B emerged as the most frequent visitor with a remarkable 6 visits in Jan 2021.
+Danny's star menu item is unquestionably Ramen.
+Customers A and C share a passion for Ramen, while Customer B has an equal fondness for all three delights: Ramen, Sushi, and Curry.
+Interestingly, Customers A and B ordered Sushi and Curry just before becoming members, which might have influenced their decision to join.![image](https://github.com/Shivank18/Danny-s-Dinner/assets/117571993/442a0ef4-bf85-4a78-b5a0-eb7094c559e7)
+
+
 
